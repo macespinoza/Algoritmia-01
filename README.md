@@ -1,4 +1,8 @@
-repositorio01
+Clases Independientes
 =============
 
-repositorio 01
+ChangeString.php
+
+ClearPar.php
+
+CompleteRnge.php
